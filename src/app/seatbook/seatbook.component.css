@@ -1,0 +1,107 @@
+.main_container{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 10px;
+    height: 700px;
+}
+
+.leftcontainer{
+    width: 40%;
+    float: left;
+}
+
+.leftcontainer .seatlayout{
+    border: 1px solid;
+    border-radius: 10px;
+    height: 650px;
+    width: 60%;
+    margin-left: 20px;
+}
+.leftcontainer .seatlayout .steering{
+    float:right;
+    padding-right: 40px;
+}
+.leftcontainer .seatlayout img{
+   
+    margin-left: 10px;
+    margin-top: 5px;
+    
+}
+.leftcontainer button{
+    background-color: #f44336;
+    height: 30px;
+    width: 150px;
+    margin: 20px;
+    border-radius: 15px;
+
+}
+.seatdeatls .details{
+    display: flex;
+    margin-left: 40px;
+    
+}
+.details h4{
+    padding-left: 20px;
+}
+
+.rightcintainer{
+    width: 60%;
+    float: left;
+}
+.green {
+    background-color: green;
+  }
+  
+  .red {
+    background-color: whitesmoke;
+  }
+
+  .busbboked{
+      background-color: gray;
+  }
+
+  .seatdeatls form{
+      border:1px solid;
+      border-radius: 10px;
+      background-color: wheat;
+      width: 60%;
+      margin: 50px;
+      padding-bottom: 20px;
+  }
+.seatdeatls form input{
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 20px;
+    width: 230px;
+}
+.seatdeatls form label{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.seatdeatls form button{
+    background-color: #f44336;
+    height: 30px;
+    width: 150px;
+    margin: 20px;
+    border-radius: 15px;
+}
+  #i1{
+      margin-left: 10px;
+
+  }
+  #i2{
+      margin-left: 23px;
+  }
+
+  #i3{
+      margin-left: 77px;
+  }
+
+#i4{
+    margin-left: 32px;
+}
+#i5{
+    margin-left: 68px;
+}
